@@ -4,6 +4,8 @@ playhtmlBitsy is a tiny script  that adds local, presence-based-multiplayer to a
 
 The code rewrites Bitsy's primary loop to add the local player's location to a [playHTML presence](https://playhtml.fun/docs/data/presence/). Bitsy's `drawRoom` function is then rewritten to draw sprites from these locations.
 
+https://github.com/user-attachments/assets/11fe83db-64ba-4f77-ab06-84da00355fc9
+
 ## How to use
 
 Open your exported bitsy game and scroll to the bottom of the file:
